@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+langchain
+langchain-community
+requests
+numpy
+python-multipart
+pytest
+black
+# endee - expecting local setup or git install
